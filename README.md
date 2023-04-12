@@ -8,7 +8,7 @@ plink2R_for_win是一个R包，只用于安装到windows系统的R语言中，�
 
 plink2R_for_win包是在[gabraham](https://github.com/gabraham)/[plink2R](https://github.com/gabraham/plink2R)包的基础上改造而来，改造过程参考了该链接：[installing the package. · Issue #1 · gabraham/plink2R (github.com)](https://github.com/gabraham/plink2R/issues/1#issuecomment-1337177621)
 
-## 下载：
+## 安装和加载：
 
 ```R
 if (!requireNamespace("remotes", quietly = TRUE))install.packages("remotes")

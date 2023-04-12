@@ -2,7 +2,7 @@
 
 ## 简介：
 
-plink2R_for_win是一个R包，只用于安装到windows系统的R语言中，是专门用于读取PLINK (http://pngu.mgh.harvard.edu/~purcell/plink)格式的文件.bed/.bim/.fam文件到R，我改造这个包主要是配合我的另一个R包：friendly2MRPro中的TWAS分析（[FUSION](https://github.com/gusevlab/fusion_twas/)）模块。
+plink2R_for_win是一个R包，只用于安装到windows系统的R语言中，是专门用于读取PLINK (http://pngu.mgh.harvard.edu/~purcell/plink) 格式的文件.bed/.bim/.fam文件到R，我改造这个包主要是配合我的另一个R包：friendly2MRPro中的TWAS分析（[FUSION](https://github.com/gusevlab/fusion_twas/)）模块。
 
 ## 来源：
 
